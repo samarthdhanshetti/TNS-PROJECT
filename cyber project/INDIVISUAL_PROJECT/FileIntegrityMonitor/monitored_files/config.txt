@@ -1,0 +1,3 @@
+application=training_demo
+debug=false
+access_level=standard

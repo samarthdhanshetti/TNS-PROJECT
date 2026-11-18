@@ -1,0 +1,10 @@
+{
+  "created_at_utc": "2026-11-18T11:40:48+00:00",
+  "hash_algorithm": "SHA-256",
+  "files": {
+    "config.txt": "e256e0d1f3edb9cb3aa53504422f9aed4ed7ecb80bb5d309617e037471c38a26",
+    "employees.csv": "9ee860cfcc056ea2c5032f4a089fb8427e3d619e300075e34adf76748f07b2a6",
+    "notes.txt": "2d6c69c83c6b71f5cdd872a49c0e0c461e3e9f982d481a694c1ad637e508dc77",
+    "security_policy.txt": "331f677b7b288c27925e4a54b59a46d09ba386087afc27fbe6a72cbee0482243"
+  }
+}
